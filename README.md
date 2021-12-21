@@ -1,3 +1,9 @@
+# Resources
+* **Javascript Library:** [ReactJS](https://reactjs.org/)
+* **CSS Framework:** [Tailwind CSS](https://tailwindcss.com/)
+* **Used Vector:** [StorySet](https://storyset.com/)
+* **Ui/Ux Design:** by [Yasir Ahmad Norri](https://dribbble.com/yasirnoori), check it out [here](https://dribbble.com/shots/15889044-Login-Register-Mobile-App/attachments/7716232?mode=media)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
