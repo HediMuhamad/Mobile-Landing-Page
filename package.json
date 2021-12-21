@@ -21,7 +21,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "push-source-code":"git push -u origin source-code",
-    "update": "concurrently -k \"deploy\" \"push-source-code\""
+    "update": "concurrently -k \"yarn deploy\" \"yarn push-source-code\""
   },
   "eslintConfig": {
     "extends": [
