@@ -1,7 +1,6 @@
 {
   "name": "mobile-landing-page",
   "version": "0.5.0",
-  "homepage": "https://hedimuhamad.github.io/Mobile-Landing-Page",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
