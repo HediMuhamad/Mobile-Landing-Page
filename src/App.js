@@ -27,7 +27,7 @@ const App = () => {
                 headerText={["Discover your",<br/>,"Dream job Here"]}
                 paragraphText="Explore all the most exiting jobs based on your experience and field of study"
                 className="mt-6 mb-4"/>
-              <Button className={onHoverProperty}>SIGN IN</Button>
+              <Button className={onHoverProperty} onClick={()=>window.open("https://mobile-authentication-pages.vercel.app/","_blank")}>SIGN IN</Button>
               <Description className="mt-2 text-xs text-slate-500">or continue without account</Description>
             </ContentBox>
         </MobileLayout>
